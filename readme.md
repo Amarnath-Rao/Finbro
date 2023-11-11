@@ -8,7 +8,7 @@
 * Data science
 ## For desicison making in financial analyses, 
 
-go to user-int-mistrail folder & run
+extract & go to user-int-mistrail folder & run
 ![image](https://github.com/Amarnath-Rao/Finbro/assets/96937608/59d26b66-765f-4214-8ca9-0f61fa8247c8)
 
 ### Linux & WSL2

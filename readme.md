@@ -1,4 +1,4 @@
-### Run the notebook to predict the user's financial investment's loss or gain
+### Run the notebook to predict the user's financial investment's loss or gain [Support and Resistance Strategy]
 ![image](https://github.com/Amarnath-Rao/Finbro/assets/96937608/2c7a4ebd-1e92-41f6-911d-1777a00fac3d)
 
 ## Video solution of Finbro:

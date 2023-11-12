@@ -1,7 +1,7 @@
 ### Run the notebook to predict the user's financial investment's loss or gain [Support and Resistance Strategy]
 
 ## Video solution of Finbro:
-https://drive.google.com/file/d/1DyJ6zEd7gSN9GVrRfrui-VBOv0xWcSwy/view?usp=sharing
+https://github.com/Amarnath-Rao/Finbro/assets/96937608/403cb9bc-c0cf-46ad-bf2c-1ec5c8ce5d58
 
 
 ### Problem it solves

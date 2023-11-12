@@ -1,7 +1,7 @@
 ### Run the notebook to predict the user's financial investment's loss or gain [Support and Resistance Strategy]
-![image](https://github.com/Amarnath-Rao/Finbro/assets/96937608/2c7a4ebd-1e92-41f6-911d-1777a00fac3d)
 
 ## Video solution of Finbro:
+https://drive.google.com/file/d/1DyJ6zEd7gSN9GVrRfrui-VBOv0xWcSwy/view?usp=sharing
 
 
 ### Problem it solves
@@ -30,9 +30,10 @@ Overall, Finbro makes financial decision-making more efficient, informed, and pr
 
 ## For decision-making in financial analyses, 
 
-extract & go to user-int-mistrail folder & run
+![image](https://github.com/Amarnath-Rao/Finbro/assets/96937608/2c7a4ebd-1e92-41f6-911d-1777a00fac3d)
 ![image](https://github.com/Amarnath-Rao/Finbro/assets/96937608/59d26b66-765f-4214-8ca9-0f61fa8247c8)
 
+extract & go to user-int-mistrail folder & run
 ### Linux & WSL2
 
 ```

@@ -3,7 +3,8 @@
 ## Video solution of Finbro:
 https://github.com/Amarnath-Rao/Finbro/assets/96937608/403cb9bc-c0cf-46ad-bf2c-1ec5c8ce5d58
 
-## Notebook link: https://colab.research.google.com/drive/1QeELaqTgtRb5n1frtvWv_3nwCKkjdQlN?usp=sharing
+### Notebook link: https://colab.research.google.com/drive/1QeELaqTgtRb5n1frtvWv_3nwCKkjdQlN?usp=sharing
+* Replit Link: https://replit.com/@MechaBotZ/Finbro?v=1
 ### Problem it solves
 Finbro aims to solve several key problems in the financial industry:
 * Real-Time Decision Making: Traditional financial decision-making can be slow and inefficient. Our system uses the LLM open-source model to provide real-time notifications, enabling executives and sales personnel to make quick decisions based on current data.

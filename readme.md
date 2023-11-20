@@ -34,6 +34,20 @@ Overall, Finbro makes financial decision-making more efficient, informed, and pr
 ![image](https://github.com/Amarnath-Rao/Finbro/assets/96937608/2c7a4ebd-1e92-41f6-911d-1777a00fac3d)
 ![image](https://github.com/Amarnath-Rao/Finbro/assets/96937608/59d26b66-765f-4214-8ca9-0f61fa8247c8)
 
+### How to Run:
+```
+To run model: Download Jupyter Notebook and run the model
+```
+```
+extact user-int-mistral.zip 
+cd user-int-mistral
+make
+
+open http://localhost:8000 # in browser
+```
+
+
+
 extract & go to user-int-mistrail folder & run
 ### Linux & WSL2
 
